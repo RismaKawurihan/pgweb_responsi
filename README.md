@@ -19,6 +19,9 @@ Komponen Pengembangan GoToTrans
 1. HTML sebagai wadah dari project yang dibuat
 2. PHP sebagai temapat pemanggilan atau penyimpanan data
 3. CSS digunakan untuk style project
+4. https://www.w3schools.com/ digunakan untuk pencarian tamplate button dan fungsinya
+
+
 
 Sumber Data : Geoportal.jogjakarta
 
