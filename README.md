@@ -14,19 +14,28 @@ transportasi umum kota dan pedesaan di Yogya [Koperasi Pemuda Sleman, Kopata, As
 Kobutri, dan Puskopkar] dan Perum DAMRI) dan PT Anindya Mitra Internasional, badan usaha
 milik provinsi DIY.
 
+----------------------------------------------------------------------------------------------------------------------------------------------
 Komponen Pengembangan GoToTrans
+1. HTML sebagai wadah dari project yang dibuat
+2. PHP sebagai temapat pemanggilan atau penyimpanan data
+3. CSS digunakan untuk style project
 
 Sumber Data : Geoportal.jogjakarta
 
+----------------------------------------------------------------------------------------------------------------------------------------
 Tangkapan Layar Produk GoToTrans
 
 1. Halaman Home
-![Alt text](image.png)
+![image](https://github.com/RismaKawurihan/pgweb_responsi/assets/142877051/e855106a-4236-4d27-a1ae-aaf82901fc23)
 
-2. Halaman Deskripsi Trans Jogja
-![Alt text](image-1.png)
 
-![Alt text](image-2.png)
+3. Halaman Deskripsi Trans Jogja
+![image](https://github.com/RismaKawurihan/pgweb_responsi/assets/142877051/b7122909-4937-43b4-9fe6-85ed9561baf8)
+![image](https://github.com/RismaKawurihan/pgweb_responsi/assets/142877051/0c5f6507-9d20-4426-b9be-5943c5447bdc)
+
 
 3. Halaman Maps
-![Alt text](image-3.png)
+   ![image](https://github.com/RismaKawurihan/pgweb_responsi/assets/142877051/e857a1b1-41a2-4d88-9c49-3031e42be147)
+   ![image](https://github.com/RismaKawurihan/pgweb_responsi/assets/142877051/39f3122f-90dc-49fc-9bfa-58aba9a1fa34)
+
+
