@@ -29,13 +29,13 @@ Sumber Data : Geoportal.jogjakarta
 Tangkapan Layar Produk GoToTrans
 
 1. Halaman Home
-![image](https://github.com/RismaKawurihan/pgweb_responsi/assets/142877051/e855106a-4236-4d27-a1ae-aaf82901fc23)
+<img width="1860" height="892" alt="image" src="https://github.com/user-attachments/assets/f9a763b2-99aa-4d5d-b59c-bb006b922c63" />
 
-
-3. Halaman Deskripsi Trans Jogja
-![image](https://github.com/RismaKawurihan/pgweb_responsi/assets/142877051/b7122909-4937-43b4-9fe6-85ed9561baf8)
-![image](https://github.com/RismaKawurihan/pgweb_responsi/assets/142877051/0c5f6507-9d20-4426-b9be-5943c5447bdc)
-
+2. Halaman Deskripsi Trans Jogja
+<img width="1903" height="950" alt="image" src="https://github.com/user-attachments/assets/840228a3-c057-42d9-ad28-96360b5af0a2" />
+<img width="960" height="855" alt="image" src="https://github.com/user-attachments/assets/4ae226fe-4504-41fc-8b39-dabfddb6416a" />
+<img width="916" height="869" alt="image" src="https://github.com/user-attachments/assets/a5d910a6-c936-4069-ae5b-b4605dc89e34" />
+<img width="1033" height="868" alt="image" src="https://github.com/user-attachments/assets/7ebcf2c2-d3e8-4d5e-bf9c-eb82318357d7" />
 
 3. Halaman Maps
    ![image](https://github.com/RismaKawurihan/pgweb_responsi/assets/142877051/e857a1b1-41a2-4d88-9c49-3031e42be147)
